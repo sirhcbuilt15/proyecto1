@@ -2,7 +2,6 @@
 
 int main (void)
 {
-	printf("No te vayas\n");
-	printf("Quedate conmigo\n");
+	printf("Que te vaya bien\n");
 	return 0;
 }
