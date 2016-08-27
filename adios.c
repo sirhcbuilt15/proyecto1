@@ -2,6 +2,7 @@
 
 int main (void)
 {
-	printf("Adios Mundo cruel");
+	printf("No te vayas\n");
+	printf("Quedate conmigo\n");
 	return 0;
 }
